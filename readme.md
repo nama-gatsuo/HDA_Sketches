@@ -20,4 +20,5 @@ Rendered with Unreal Engine.
 | na_polycrate  |  ![](./captures/polycrate_0.jpg) ![](./captures/polycrate_1.jpg) ![](./captures/polycrate_2.jpg) |
 | na_polybridge | ![](./captures/polybridge_0.jpg) |
 | na_orderlytangle | ![](./captures/orderlytangle_0.jpg) ![](./captures/orderlytangle_1.jpg) |
-| na_spidron | ![](./captures/spidron_0.jpg) | 
+| na_spidron | ![](./captures/spidron_0.jpg) |
+| na_twistcurve | ![](./captures/twistcurve_0.jpg) ![](./captures/twistcurve_1.jpg) | 
